@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3254d2a9-88ff-4a71-b730-606cb6a81a35" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="3254d2a9-88ff-4a71-b730-606cb6a81a35" name="Changes" comment="update the README.md">
+      <change afterPath="$PROJECT_DIR$/basic-auth/src/main/java/com/example/basicauth/security/AppRoles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic-auth/src/main/java/com/example/basicauth/security/PasswordConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic-auth/src/main/java/com/example/basicauth/HomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic-auth/src/main/java/com/example/basicauth/HomeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic-auth/src/main/java/com/example/basicauth/security/AppSecurityConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic-auth/src/main/java/com/example/basicauth/security/AppSecurityConfiguration.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,8 +83,23 @@
       <option name="presentableId" value="Default" />
       <updated>1692363274517</updated>
       <workItem from="1692363275506" duration="4652000" />
-      <workItem from="1692391566863" duration="125000" />
+      <workItem from="1692391566863" duration="2672000" />
     </task>
+    <task id="LOCAL-00001" summary="update the README.dm">
+      <created>1692391696299</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1692391696299</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update the README.md">
+      <created>1692391871501</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1692391871501</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,5 +115,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update the README.dm" />
+    <MESSAGE value="update the README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="update the README.md" />
   </component>
 </project>

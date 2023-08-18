@@ -17,4 +17,8 @@ public class HomeController {
     String test(){
         return "test";
     }
+    @GetMapping("/only-admin")
+    String admin(){
+        return "Hello admin";
+    }
 }
