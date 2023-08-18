@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3254d2a9-88ff-4a71-b730-606cb6a81a35" name="Changes" comment="" />
+    <list default="true" id="3254d2a9-88ff-4a71-b730-606cb6a81a35" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,7 +48,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
-    "jdk.selected.JAVA_MODULE": "17",
+    "jdk.selected.JAVA_MODULE": "20",
     "last_opened_file_path": "/home/mohanadkhaled/IdeaProjects/spring-security",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -77,6 +80,7 @@
       <option name="presentableId" value="Default" />
       <updated>1692363274517</updated>
       <workItem from="1692363275506" duration="4652000" />
+      <workItem from="1692391566863" duration="125000" />
     </task>
     <servers />
   </component>
