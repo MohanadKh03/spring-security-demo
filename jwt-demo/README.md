@@ -1,0 +1,1 @@
+## NOTE: To get the public,private keys , I used OpenSSL to generate them in the certs folder
