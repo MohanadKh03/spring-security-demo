@@ -1,0 +1,13 @@
+spring:
+  jpa:
+    show-sql: true
+    generate-ddl: true
+    hibernate:
+      ddl-auto: update
+  datasource:
+    url: jdbc:postgresql://localhost:5432/auth
+    username: admin
+    password: admin
+  docker:
+    compose:
+      file: ./postgres-auth.yaml
